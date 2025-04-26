@@ -59,4 +59,11 @@ The waveform generated has been verified for the following scenarios:
  1) Read-Write registers
  2) Read-Only register
  3) Write only register
- 4) Continuous reads and writes  
+ 4) Continuous reads and writes
+
+    ![image](https://github.com/user-attachments/assets/fdef9cbf-209b-4e8e-8403-231480392eb9)
+    ![image](https://github.com/user-attachments/assets/d7db77cf-89b7-4d5a-902a-ebff6bf3fd37)
+    ![image](https://github.com/user-attachments/assets/cfbb42f3-d30e-4d4d-a93c-f761e9dfb039)
+
+
+
